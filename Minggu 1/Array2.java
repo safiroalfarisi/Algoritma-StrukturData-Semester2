@@ -78,5 +78,6 @@ public class Array2 {
 
         System.out.printf("IP : %.2f\n", ip);
 
+        sc.close();
     }
 }

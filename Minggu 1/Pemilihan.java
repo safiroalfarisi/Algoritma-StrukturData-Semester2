@@ -24,7 +24,9 @@ public class Pemilihan {
             System.out.println("Nilai tidak valid!");
             System.out.println("======================");
             System.out.println("======================");
+            input.close();
             return;
+            
         }
 
         // Perhitung nilai akhir

@@ -77,5 +77,7 @@ public class Array {
         }
         IP = totalNilai / 18;
         System.out.printf("IP = %.2f",IP);
+
+        input.close();
     }
 }
