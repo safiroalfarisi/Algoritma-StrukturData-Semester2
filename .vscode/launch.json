@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Utama27",
+            "request": "launch",
+            "mainClass": "Minggu7.Utama27",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Utama27",
+            "request": "launch",
+            "mainClass": "Utama27",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Main27",
+            "request": "launch",
+            "mainClass": "Main27",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortingMain27",
+            "request": "launch",
+            "mainClass": "MergeSortTest.MergeSortingMain27",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "BukuMain27",
+            "request": "launch",
+            "mainClass": "BukuMain27",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "HotelMain",
+            "request": "launch",
+            "mainClass": "Minggu5.HotelMain",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Minggu5.Main",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "SelectinSort",
+            "request": "launch",
+            "mainClass": "SelectinSort",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "MobilMain",
+            "request": "launch",
+            "mainClass": "Minggu5.MobilMain",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Sum2Main",
+            "request": "launch",
+            "mainClass": "Minggu5.Sum2Main",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "SumMain",
+            "request": "launch",
+            "mainClass": "Minggu5.SumMain",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "PangkatMain",
+            "request": "launch",
+            "mainClass": "Minggu5.PangkatMain",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "MainFaktorial",
+            "request": "launch",
+            "mainClass": "Minggu5.MainFaktorial",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Kuis1Main_27",
+            "request": "launch",
+            "mainClass": "kuis1.Kuis1Main_27",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "Minggu3.HelloWorld",
+            "projectName": "Algoritma-StrukturData-Semester2_de01942d"
+        },
+        {
+            "type": "java",
+            "name": "BangunMain",
+            "request": "launch",
+            "mainClass": "Minggu3.BangunMain",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "MahasiswaMain",
+            "request": "launch",
+            "mainClass": "Minggu3.MahasiswaMain",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "SegitigaMain",
+            "request": "launch",
+            "mainClass": "Minggu3.SegitigaMain",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBalok",
+            "request": "launch",
+            "mainClass": "Minggu3.ArrayBalok",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Array2",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Fungsi",
+            "request": "launch",
+            "mainClass": "Fungsi",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "ArrayObject",
+            "request": "launch",
+            "mainClass": "Minggu3.ArrayObject",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan",
+            "request": "launch",
+            "mainClass": "Pemilihan",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Perulangan",
+            "request": "launch",
+            "mainClass": "Perulangan",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Tugas1",
+            "request": "launch",
+            "mainClass": "Tugas1",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2",
+            "request": "launch",
+            "mainClass": "Tugas2",
+            "projectName": "Algoritma-StrukturData-Semester2_71ee2a9"
+        }
+    ]
+}
